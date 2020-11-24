@@ -1,0 +1,42 @@
+body{
+	background:#EA6F0E;
+}
+div{
+		background:#45B39D;
+		width:300px;
+		text-align:center;
+		margin-left:475px;
+		margin-top:236px;
+		padding:30px;
+		border-radius:20px;
+		box-shadow: 7px 8px 13px black;
+		margin-bottom:200px;
+		color:black
+}
+div h1{}
+div input{
+		padding:15px;
+		width:280px;
+		margin-bottom:12px;
+		background:transparent;
+		border:none;
+		border-bottom:2px solid black;
+		outline:none;
+		color:#fff;
+}
+div p{}
+div button{
+		background:black:
+		color:#fff;
+		padding:10px;
+		width:280px;
+		border: none;
+		margin-bottom: 10px;
+		font-size: 22px;
+		text-transform: uppercase;
+		border-radius:23px;
+}
+div button:hover{
+	background:#F1948A;
+	transition:.5s
+}
